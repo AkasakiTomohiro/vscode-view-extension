@@ -35,8 +35,11 @@
 		"@types/vscode": "^1.39.0",
 		"glob": "^7.1.4",
 		"mocha": "^6.1.4",
-		"typescript": "^3.3.1",
+		"prettier": "^1.18.2",
 		"tslint": "^5.12.1",
+		"tslint-config-prettier": "^1.18.0",
+		"tslint-plugin-prettier": "^2.0.1",
+		"typescript": "^3.3.1",
 		"vscode-test": "^1.2.0"
 	}
 }

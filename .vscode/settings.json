@@ -1,5 +1,9 @@
 // Place your settings in this file to overwrite default and user settings.
 {
+    "prettier.singleQuote": true,
+    "prettier.semi": true,
+    "prettier.printWidth": 120,
+    "prettier.trailingComma": "all",
     "files.exclude": {
         "out": false // set this to true to hide the "out" folder with the compiled JS files
     },
